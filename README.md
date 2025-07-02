@@ -83,5 +83,3 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 
 ---
 
-## License
-Specify your project's license here (e.g., MIT, Apache 2.0, etc.). 
