@@ -78,8 +78,4 @@ Easily self-host AnythingLLM for multiple users on your own server using Docker.
 
 ---
 
-## Contributing
-Pull requests and issues are welcome! Please open an issue to discuss your ideas or report bugs.
-
----
 
